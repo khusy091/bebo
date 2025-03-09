@@ -258,24 +258,22 @@ p{
 .button:hover{
     background-color: #f55a00;
 }
-.education-container{
+.eucation-container{
     display: flex;
-    max-width: 600px;
-    gap: 20px;
     flex-wrap: wrap;
-    margin: 20px;
-    align-items: center;
-    padding: 25px;
+    gap: 20px;
+    margin-top: 50px;
 }
 .education-item{
-    display: flex;n
+    display: flex;
     justify-content: space-between;
+    align-items: center;
     background-color: #fff;
     align-items: center;
     border-radius: 8px;
     padding: 20px;
     width: 40%;
-    margin-left:150px ;
+    margin-left:50px ;
     margin-bottom: 20px;
     position: relative;
 }
