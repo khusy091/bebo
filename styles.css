@@ -32,9 +32,11 @@ body{
     text-align: center;
 }
 .resume-btn{
-border-radius: 10px;
-border: #F55A00;
-text-decoration: none;
+    border-radius: 10px;
+    border:2px solid #F55A00;
+    text-decoration: none;
+    color: black;
+    padding: 5px;
 }
 .hero{
     padding:  50px;
